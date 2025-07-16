@@ -171,3 +171,87 @@ This curriculum is designed to build upon a foundational A1 understanding of Ita
 *   **Materiali:**
     *   Esercizi: [Esercizi](Textbook/Unit12_Review_Part2/Worksheet.md)
     *   Soluzioni: [Soluzioni](Textbook/Unit12_Review_Part2/AnswerKey.md)
+
+---
+
+### **Unit 13: Comparative and Superlative (Comparativi e Superlativi)**
+
+*   **Objective:** Compare people, places, and things; express the highest/lowest degree.
+*   **Grammar Focus:**
+    *   Regular and irregular comparatives (*più... di*, *meno... di*, *migliore*, *peggiore*, *maggiore*, *minore*).
+    *   Relative superlatives (*il più...*, *il meno...*).
+    *   Absolute superlatives (*-issimo*).
+*   **Vocabulary Focus:** Adjectives, describing people and places, preferences.
+*   **Materiali:**
+    *   Capitolo: [Capitolo](Textbook/Unit13_Comparative_Superlative/Chapter.md)
+    *   Esercizi: [Esercizi](Textbook/Unit13_Comparative_Superlative/Worksheet.md)
+    *   Soluzioni: [Soluzioni](Textbook/Unit13_Comparative_Superlative/AnswerKey.md)
+
+---
+
+### **Unit 14: The Imperative (Formal and Plural) & Pronoun Attachment**
+
+*   **Objective:** Give instructions, directions, and advice politely (to individuals) and to groups.
+*   **Grammar Focus:**
+    *   Imperative forms for `Lei` (formal singular), `noi` (let's), and `voi` (informal plural), including `Loro` (formal plural).
+    *   Placement and attachment of pronouns (direct, indirect, reflexive) with all imperative forms.
+*   **Vocabulary Focus:** Directions, recipes, classroom language, polite requests, public announcements.
+*   **Materiali:**
+    *   Capitolo: [Capitolo](Textbook/Unit14_Imperative_Pronouns/Chapter.md)
+    *   Esercizi: [Esercizi](Textbook/Unit14_Imperative_Pronouns/Worksheet.md)
+    *   Soluzioni: [Soluzioni](Textbook/Unit14_Imperative_Pronouns/AnswerKey.md)
+
+---
+
+### **Unit 15: Demonstrative Adjectives and Pronouns & Review of Possessives**
+
+*   **Objective:** Point out specific items or people in relation to the speaker or listener, and reinforce the use of possessives.
+*   **Grammar Focus:**
+    *   Forms and usage of *questo* (this/these) and *quello* (that/those) as adjectives and pronouns.
+    *   Review and contrast with possessive adjectives and pronouns, focusing on how both are used to specify ownership or location.
+*   **Vocabulary Focus:** Objects, locations, distinguishing items, shopping, describing possessions.
+*   **Materiali:**
+    *   Capitolo: [Capitolo](Textbook/Unit15_Demonstratives_Possessives/Chapter.md)
+    *   Esercizi: [Esercizi](Textbook/Unit15_Demonstratives_Possessives/Worksheet.md)
+    *   Soluzioni: [Soluzioni](Textbook/Unit15_Demonstratives_Possessives/AnswerKey.md)
+
+---
+
+### **Unit 16: The Gerund (Continuous Actions & Independent Use)**
+
+*   **Objective:** Express actions happening simultaneously, ongoing actions, or the manner/means of an action.
+*   **Grammar Focus:**
+    *   Formation of the gerund (regular and irregular).
+    *   Usage with *stare* to form continuous tenses (*stare + gerundio*, e.g., *sto parlando* - I am speaking).
+    *   Introduction to independent gerund clauses (e.g., *leggendo, ho imparato* - by reading, I learned).
+*   **Vocabulary Focus:** Verbs of action, activities, describing processes, daily routines.
+*   **Materiali:**
+    *   Capitolo: [Capitolo](Textbook/Unit16_Gerund/Chapter.md)
+    *   Esercizi: [Esercizi](Textbook/Unit16_Gerund/Worksheet.md)
+    *   Soluzioni: [Soluzioni](Textbook/Unit16_Gerund/AnswerKey.md)
+
+---
+
+### **Unit 17: Conditional Sentences (Type 1) & Expressing Opinions (Indicative)**
+
+*   **Objective:** Talk about real or highly probable hypothetical situations and express personal opinions and beliefs using the indicative mood.
+*   **Grammar Focus:**
+    *   Conditional sentences Type 1 (*se* + present indicative, future/present indicative).
+    *   Expressions of opinion and belief using the indicative mood (*penso che*, *credo che*, *secondo me*, *mi sembra che*).
+    *   Review and expansion of *piacere* for expressing preferences.
+*   **Vocabulary Focus:** Opinions, beliefs, hypothetical scenarios, common conversational phrases, social topics.
+*   **Materiali:**
+    *   Capitolo: [Capitolo](Textbook/Unit17_Conditional_Opinions/Chapter.md)
+    *   Esercizi: [Esercizi](Textbook/Unit17_Conditional_Opinions/Worksheet.md)
+    *   Soluzioni: [Soluzioni](Textbook/Unit17_Conditional_Opinions/AnswerKey.md)
+
+---
+
+### **Unit 18: Comprehensive Review & Project**
+
+*   **Objective:** Consolidate and test knowledge from Units 1-17 through comprehensive exercises and a practical, integrative project.
+*   **Grammar:** All previous topics, with a focus on integrating concepts from Units 13-17.
+*   **Vocabulary:** Integrated from all previous units.
+*   **Materiali:**
+    *   Esercizi: [Esercizi](Textbook/Unit18_Review_Project/Worksheet.md)
+    *   Soluzioni: [Soluzioni](Textbook/Unit18_Review_Project/AnswerKey.md)

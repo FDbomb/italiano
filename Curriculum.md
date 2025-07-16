@@ -136,4 +136,5 @@ This curriculum is designed to build upon a foundational A1 understanding of Ita
 ### **Unit 12: Comprehensive Review (Part 2)**
 
 *   **Objective:** Consolidate and test knowledge from Units 7-11, while also integrating concepts from the first five units.
-*   **Materiali:** [Esercizi](Textbook/Unit12_Review_Part2/Worksheet.md) | [Soluzioni](Textbook/Unit12_Review_Part2/AnswerKey.md)
+*   **Materiali:**
+    *   Worksheet: [Esercizi](Textbook/Unit12_Review_Part2/Worksheet.md) (Answers: [Soluzioni](Textbook/Unit12_Review_Part2/AnswerKey.md))

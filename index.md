@@ -24,6 +24,12 @@ Qui troverai tutti i materiali per imparare l'italiano, organizzati in unità di
 | Unità 10 | [Pronomi Avanzati](Textbook/Unit10_Advanced_Pronouns/Chapter.md) | [Worksheet](Textbook/Unit10_Advanced_Pronouns/Worksheet.md) | [Answer Key](Textbook/Unit10_Advanced_Pronouns/AnswerKey.md) |
 | Unità 11 | [Il Condizionale](Textbook/Unit11_Conditional/Chapter.md) | [Worksheet](Textbook/Unit11_Conditional/Worksheet.md) | [Answer Key](Textbook/Unit11_Conditional/AnswerKey.md) |
 | Unità 12 | Revisione Completa (Parte 2) | [Worksheet](Textbook/Unit12_Review_Part2/Worksheet.md) | [Answer Key](Textbook/Unit12_Review_Part2/AnswerKey.md) |
+| Unità 13 | [Comparativi e Superlativi](Textbook/Unit13_Comparative_Superlative/Chapter.md) | [Worksheet](Textbook/Unit13_Comparative_Superlative/Worksheet.md) | [Answer Key](Textbook/Unit13_Comparative_Superlative/AnswerKey.md) |
+| Unità 14 | [L'Imperativo (Formale e Plurale)](Textbook/Unit14_Imperative_Pronouns/Chapter.md) | [Worksheet](Textbook/Unit14_Imperative_Pronouns/Worksheet.md) | [Answer Key](Textbook/Unit14_Imperative_Pronouns/AnswerKey.md) |
+| Unità 15 | [Dimostrativi e Possessivi](Textbook/Unit15_Demonstratives_Possessives/Chapter.md) | [Worksheet](Textbook/Unit15_Demonstratives_Possessives/Worksheet.md) | [Answer Key](Textbook/Unit15_Demonstratives_Possessives/AnswerKey.md) |
+| Unità 16 | [Il Gerundio](Textbook/Unit16_Gerund/Chapter.md) | [Worksheet](Textbook/Unit16_Gerund/Worksheet.md) | [Answer Key](Textbook/Unit16_Gerund/AnswerKey.md) |
+| Unità 17 | [Periodo Ipotetico (Tipo 1) e Opinioni](Textbook/Unit17_Conditional_Opinions/Chapter.md) | [Worksheet](Textbook/Unit17_Conditional_Opinions/Worksheet.md) | [Answer Key](Textbook/Unit17_Conditional_Opinions/AnswerKey.md) |
+| Unità 18 | Revisione Completa e Progetto | [Worksheet](Textbook/Unit18_Review_Project/Worksheet.md) | [Answer Key](Textbook/Unit18_Review_Project/AnswerKey.md) |
 
 ## Riepiloghi Grammaticali (Summaries)
 
